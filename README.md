@@ -12,7 +12,12 @@ This public repository is a documentation-only showcase. Production source code,
 
 ## Screenshots
 
-> Screenshots will be added here.
+<p align="center">
+  <img src="./IMG_0967.png" width="210" alt="Groove library screen" />
+  <img src="./IMG_0968.png" width="210" alt="Stem mixer screen" />
+  <img src="./IMG_0969.png" width="210" alt="Music genres screen" />
+  <img src="./IMG_0970.png" width="210" alt="Groove filters screen" />
+</p>
 
 ## Highlights
 
@@ -57,4 +62,4 @@ The SwiftUI layer owns navigation, library state, mixer controls, onboarding, an
 
 ## Repository scope
 
-Only showcase documentation is public here. No production source, stem audio, groove metadata, signing certificates, provisioning profiles, API keys, or App Store Connect credentials are included.
+Only showcase documentation and product screenshots are public here. No production source, stem audio, groove metadata, signing certificates, provisioning profiles, API keys, or App Store Connect credentials are included.
