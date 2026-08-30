@@ -4,11 +4,7 @@ A native iOS drum-groove practice and multi-stem mixing app.
 
 ## About
 
-GrooveMixer is designed for playing, mixing, and practicing with multi-stem drum grooves. The app combines a searchable groove library with per-stem controls and a focused practice workflow.
-
-The production app uses a shared realtime C++17 audio engine behind an Objective-C++ bridge. Its monitoring path intentionally includes a 120 ms delay, making it a delayed practice monitor rather than a zero-latency instrument.
-
-This public repository is a documentation-only showcase. Production source code, private audio assets, signing material, store configuration, and credentials remain private.
+GrooveMixer for iOS is a practice-first environment for hearing a groove as a collection of controllable parts. The Library helps narrow down a feel by tempo and meter, then the Stem Mixer turns each groove into a hands-on session with transport, loop, balance, mute, solo, and pan controls. Underneath that interface, playback is coordinated by a shared realtime engine and a deliberately delayed monitoring path.
 
 ## Screenshots
 
